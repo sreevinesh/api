@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TicDemoDatingApp",
+    "\\TicDemoDatingApp\\API",
+    "\\TicDemoDatingApp\\API\\Controllers",
+    "\\TicDemoDatingApp\\API\\Services"
+  ],
+  "SelectedNode": "\\TicDemoDatingApp\\API\\Controllers\\AccountController.cs",
+  "PreviewInSolutionExplorer": false
+}
